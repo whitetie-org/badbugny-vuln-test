@@ -11,7 +11,7 @@
     "start": "serve -s dist -l 3000"
   },
   "dependencies": {
-    "axios": "0.21.0",
+    "axios": "0.32.0",
     "handlebars": "4.0.5",
     "jquery": "3.4.0",
     "lodash": "4.17.4",
