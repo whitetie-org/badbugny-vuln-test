@@ -44,8 +44,8 @@ Three containers, one `docker compose up`.
 Requirements: Docker 24+ with `docker compose` v2.
 
 ```bash
-git clone <this repo> badbugny-vuln
-cd badbugny-vuln
+git clone git@github.com:whitetie-org/badbugny-vuln-test.git
+cd badbugny-vuln-test
 docker compose up --build
 ```
 
@@ -76,7 +76,7 @@ Passwords are stored as plain MD5 — see VULN-CRYPTO below.
 ## Repo layout
 
 ```
-badbugny-vuln/
+badbugny-vuln-test/
 ├── docker-compose.yml
 ├── README.md
 ├── backend/                      Go service (vulnerable API)
