@@ -59,5 +59,3 @@ TQIhAKMSvzIBnni7ot/OSie2TmJLY4SwTQAevXysE2RbFDYdAiEBCUEaRQnMnbp7
 v/Ow5T0q5gIJAiEAyS4RaI9YG8EWx/2w0T67ZUVAw8eOMB6BIUg0Xcu+3okCIBOs
 /5OiPgoTdSy7bcF9IGpSE8ZgGKzgYQVZeN97YE00
 -----END RSA PRIVATE KEY-----`
-const demoToken = "ghp_0123456789abcdefghijklmnopqrstuvwxyz"
-const demoToken2 = "ghp_0123456789abcdefghijklmnopqrstuvwxyz"
