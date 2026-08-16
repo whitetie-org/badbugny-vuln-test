@@ -24,8 +24,8 @@
     "serialize-javascript": "1.4.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.2.0",
+    "@vitejs/plugin-react": "^6.0.2",
     "serve": "^14.2.1",
-    "vite": "^4.5.0"
+    "vite": "^8.0.16"
   }
 }
